@@ -135,7 +135,7 @@ _Artificial Intelligence Team Project_
 
 Admitted into honor society in recognition of excellent scholarship in the profession of Electrical and Computer Engineering. Part of the Zeta Omega chapter.
 
-## Skills
+<!-- ## Skills
 
 ### Languages
 
@@ -151,7 +151,7 @@ Github, Gitlab, Tableau, Power BI, Microsoft Office 365, Microsoft Azure
 
 ### Models
 
-Linear and Logistic Regression, KNN Classification, Decision Trees, Gradient Boosting, SVM, K-Means Clustering
+Linear and Logistic Regression, KNN Classification, Decision Trees, Gradient Boosting, SVM, K-Means Clustering -->
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
