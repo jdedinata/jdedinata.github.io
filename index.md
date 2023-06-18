@@ -42,11 +42,116 @@ _B.S._ Computer Science and Engineering, 3.6, September 2015 - June 2018
 
 ## Projects
 
+### SpaceX Falcon 9 Launch Outcome Predictor
+
+_IBM Data Science Capstone Project_
+
+• Gathered and curated data using ETL tools through the SpaceX API and web-scraped Wikipedia, ensuring data usability.
+
+• Deployed SQL server databases on IBM Db2 for exploratory data analysis using SQLite3 and Matplotlib.
+
+• Developed classification models (e.g. Logistic Regression, KNN, SVM) using scikit-learn, achieving 83% prediction accuracy.
+
+### Diabetic Patients Readmission Predictor
+
+_Machine Learning and Data Mining Project_
+
+• Developed a predictive model using Scikit-learn to predict diabetic patient readmissions, performing at 68% accuracy.
+
+• Performed ETL processes on big data sets sourced from UCI machine learning resources for exploratory data analysis.
+
+• Explored models (e.g. Linear Regression, Gradient Boosting) using grid search and cross-validation for predictive analysis.
+
+### Title Generation and Text Summarization of Forum Threads
+
+_NLP Deep Learning Team Project_
+
+• Implemented an NLP program using PyTorch to summarize texts from Reddit posts, reducing 80% of bloat content.
+
+• Utilized advanced Seq2Seq models such as the RNN model and the BART Transformer model from the HuggingFace library.
+
+• Enhanced models with attention mechanisms in the decoder, improving results by 40-50% as evaluated by BLEU scores.
+
+### Seq2Seq Video Captioning
+
+_Deep Learning Team Project_
+
+• Engineered a PyTorch-based program to generate captions for videos, enabling on-demand video summarization.
+
+• Employed a Sequence-to-Sequence model with VGG16 video encoder combined with LSTM encoder-decoder architecture.
+
+• Integrated attention mechanisms and word embeddings, improving performance by 50% as measured by METEOR scores.
+
+### [BikePark](https://greendinosaur.github.io/bikeparkpfo/)
+
+_UX Design Team Project_
+
+• Designed UX based on user-centric design
+
+### [AR Flowerfall](http://srproj.eecs.uci.edu/projects/team-382-ar-project)
+
+_Senior Design Project_
+
+• Developed an Augmented Reality Android application to play card games using ARCore and Unity.
+
+• Implemented physics and in-game objects and textures for the application in a collaborative team.
+
+• Worked as team leader to create project proposal and requirement documentations for the outline of the project.
+
+### Sokoban Solver
+
+_Artificial Intelligence Team Project_
+
+• Developed an artificial intelligence program that can solve Sokoban boards using Python.
+
+• Programmed using a Reinforcement Learning program with Q-Learning.
+
+• Used Manhattan Distance formula as a basis for the rewarding system of the program.
+
 ## Certifications
+
+### Microsoft Certifications
+  [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://www.credly.com/badges/06e77f64-ea26-45a7-ba3b-73f9e6349886/public_url)
+
+  [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/9979a011-1b87-482d-8b75-4347d43c4ff0/public_url)
+
+  [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://www.credly.com/badges/a08ce356-04e4-4412-92d9-3aecd57b6d42/public_url)
+
+  [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)](https://www.credly.com/badges/062c02bb-7251-4e95-9883-c93c0392d3a1/public_url)
+
+### MOOC Certifications
+
+  [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/WBE9DJAM6FLZ)
+  
+  [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/964887f7677531615afac483dae2d6ba716a6ebfb5988986c1617d838f0e83a4)
+  
+  [Career Essentials in Business Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/f43b10200c2893b9a54f6b067f6322f50aa752e3ef5a46ef6b11e5c5e4cedab1)
+  
+  In-Progress: PL-900, MS-900, DP100, DP-203, DP-420, DP-500, AI-102, PL-300, MB-260, IBM Data Analyst
 
 ## Honors and Awards
 
+### IEEE - Eta Kappa Nu
+
+Admitted into honor society in recognition of excellent scholarship in the profession of Electrical and Computer Engineering. Part of the Zeta Omega chapter.
+
 ## Skills
+
+### Languages
+
+C++, Java, Python, SQL, R, Scala, HTML, CSS, JavaScript, DAX
+
+### Libraries
+
+PyTorch, TensorFlow/Keras, Pandas, SciPy, NumPy, Matplotlib, Scikit-learn, NLTK, SQLite3, HuggingFace
+
+### Platforms
+
+Github, Gitlab, Tableau, Power BI, Microsoft Office 365, Microsoft Azure
+
+### Models
+
+Linear and Logistic Regression, KNN Classification, Decision Trees, Gradient Boosting, SVM, K-Means Clustering
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
