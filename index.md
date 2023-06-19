@@ -82,11 +82,21 @@ _Deep Learning Team Project_
 
 • Integrated attention mechanisms and word embeddings, improving performance by 50% as measured by METEOR scores.
 
+<!-- ### Benify
+
+_Entrepreneurial Product Design Project_
+
+• Created  -->
+
 ### [BikePark](https://greendinosaur.github.io/bikeparkpfo/)
 
 _UX Design Team Project_
 
-• Designed UX based on user-centric design
+• Created UX for Android mobile application for finding parking spaces for bikes.
+
+• Designed application based on user feedback collected from multiple interviews through different iterations of the design cycle.
+
+• Worked on Agile methodology and utilized Figma to create application on high-fideltiy prototype.
 
 ### [AR Flowerfall](http://srproj.eecs.uci.edu/projects/team-382-ar-project)
 
