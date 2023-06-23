@@ -14,7 +14,7 @@ _B.S._ Computer Science and Engineering, 3.6, September 2015 - June 2018
 ## Work Experience
 ### Apple
 
-**Lead Software Technician**, April 2020 - August 2021
+**Lead Software Analyst**, April 2020 - August 2021
 
 • Led a team of 10 and organized efforts to gather meaningful data and trends to decrease application processing times.
 
@@ -22,7 +22,7 @@ _B.S._ Computer Science and Engineering, 3.6, September 2015 - June 2018
 
 • Collaborated with governmental and medical institutions to deploy COVID-19 applications during time of urgency.
 
-**Software Technician**, May 2019 - April 2020
+**Software Analyst**, May 2019 - April 2020
 
 • Analyzed and reviewed 105 iOS applications daily based on design, performance, and utility, pushing for 130% of daily target.
 
@@ -137,7 +137,7 @@ _Artificial Intelligence Team Project_
   
   [Career Essentials in Business Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/f43b10200c2893b9a54f6b067f6322f50aa752e3ef5a46ef6b11e5c5e4cedab1)
   
-  In-Progress: PL-900, MS-900, DP100, DP-203, DP-420, DP-500, AI-102, PL-300, MB-260, IBM Data Analyst
+  In-Progress: PL-900, MS-900, DP-100, DP-203, DP-420, DP-500, AI-102, PL-300, MB-260, IBM Data Analyst
 
 ## Honors and Awards
 
