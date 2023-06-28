@@ -42,6 +42,26 @@ _B.S._ Computer Science and Engineering, 3.6, September 2015 - June 2018
 
 ## Projects
 
+### Marketing Analysis and Customer Segmentation
+
+_Kaggle Project on Marketing Analytics_
+
+• Performed exploratory data analysis on marketing analytics, deriving insights on customer purchases in response to different marketing campaigns.
+
+• Visualized data using Matplotlib and Seaborn on which marketing campaigns are most effective, maximizing company profits for the next marketing campaign.
+
+• Developed a classification and clustering model using Scikit-learn to gauge customer response to advertisement campaigns, performing at 89% accuracy.
+
+### Diabetic Patients Classification
+
+_Machine Learning and Data Mining Project_
+
+• Developed a predictive model using Azure Machine Learning to classify patients with diabetes, performing at 89% accuracy.
+
+• Utilized ETL tools to perform data mining on big data sets for exploratory data analysis and classification model exploration.
+
+• Deployed model to web services using Azure Container Instances, reachable using REST endpoints for public access.
+
 ### SpaceX Falcon 9 Launch Outcome Predictor
 
 _IBM Data Science Capstone Project_
@@ -82,11 +102,15 @@ _Deep Learning Team Project_
 
 • Integrated attention mechanisms and word embeddings, improving performance by 50% as measured by METEOR scores.
 
-<!-- ### Benify
+### Benify
 
 _Entrepreneurial Product Design Project_
 
-• Created  -->
+• Discovered a relatively new market that can be explored in relation to the ergonomics market and the sales of direct-to-consumer ergonomic products.
+
+• Conducted market research and customer interviews to gain insight on demands and target market size for ergonomic related products for consumer markets.
+
+• Planned go-to-market strategies and researched on the competitive landscape to develop a sustainable revenue model for the business plan.
 
 ### [BikePark](https://greendinosaur.github.io/bikeparkpfo/)
 
