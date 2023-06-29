@@ -142,6 +142,46 @@ _Artificial Intelligence Team Project_
 
 • Used Manhattan Distance formula as a basis for the rewarding system of the program.
 
+### Noise Cancellation Program
+
+_Embedded Programming Team Project_
+
+• Designed a noise cancelling program using C on a microcontroller.
+
+• Implemented an adaptive noise equalizer that can filter a wide range of white-noise.
+
+• Integrated the adaptive noise equalizer to filter only white-noise and produce clear sound for a song.
+
+### Mega Sudoku Board Solver
+
+_AI Team Project_
+
+• Developed an artificial intelligence program that can solve a 25 by 25 Sudoku board using C++.
+
+• Programmed as a top-down A.I. program that narrows down solutions for the board.
+
+• Implemented using present A.I. techniques such as forward checking and minimum remaining values.
+
+### Rain Predictor Program
+
+_Machine Learning Project_
+
+• Developed a machine-learning program using Python and Scikit-learn.
+
+• Used big data inputs provided by the UCI resources for rain data values.
+
+• Trained the program using an ensemble of algorithms such as Decision Trees and Gradient Boosting algorithms.
+
+### Safe-Market Web Application
+
+_Capital One DevExchange Hackathon_
+
+• Leveraged the Capital One SignUp API to provide a safer online shopping marketplace.
+
+• Developed backend of web application using Node.js, Express.js, Heroku and PostgreSQL.
+
+• Integrated the API and parsed the information retrieved to speed up registration time.
+
 ## Certifications
 
 ### Microsoft Certifications
