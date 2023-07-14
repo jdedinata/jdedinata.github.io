@@ -72,7 +72,7 @@ _Machine Learning and Data Mining Project_
 
 • Deployed model to web services using Azure Container Instances, reachable using REST endpoints for public access.
 
-### SpaceX Falcon 9 Launch Outcome Predictor
+### [SpaceX Falcon 9 Launch Outcome Predictor](https://github.com/Jonathan-Dedinata/Data-Science-Capstone)
 
 _IBM Data Science Capstone Project_
 
@@ -82,7 +82,7 @@ _IBM Data Science Capstone Project_
 
 • Developed classification models (e.g. Logistic Regression, KNN, SVM) using scikit-learn, achieving 83% prediction accuracy.
 
-### Diabetic Patients Readmission Predictor
+### [Diabetic Patients Readmission Predictor](https://github.com/Jonathan-Dedinata/CS273A_Diabetes_Predictor/tree/main)
 
 _Machine Learning and Data Mining Project_
 
@@ -92,7 +92,7 @@ _Machine Learning and Data Mining Project_
 
 • Explored models (e.g. Linear Regression, Gradient Boosting) using grid search and cross-validation for predictive analysis.
 
-### Title Generation and Text Summarization of Forum Threads
+### [Title Generation and Text Summarization of Forum Threads](https://github.com/Jonathan-Dedinata/aita-summarization)
 
 _NLP Deep Learning Team Project_
 
@@ -102,7 +102,7 @@ _NLP Deep Learning Team Project_
 
 • Enhanced models with attention mechanisms in the decoder, improving results by 40-50% as evaluated by BLEU scores.
 
-### Seq2Seq Video Captioning
+### [Seq2Seq Video Captioning](https://github.com/Jonathan-Dedinata/CS274C_DeepLearning)
 
 _Deep Learning Team Project_
 
