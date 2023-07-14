@@ -42,7 +42,17 @@ _B.S._ Computer Science and Engineering, 3.6, September 2015 - June 2018
 
 ## Projects
 
-### Marketing Analysis and Customer Segmentation
+### [Customer Churn Predictor](https://github.com/Jonathan-Dedinata/StrataProjects/blob/main/CustomerChurn/Customer%20Churn.ipynb)
+
+_Personal Project_
+
+• Performed exploratory analysis to derive insights by using classification models for customer churn classification.
+
+• Engineered data features, removing 35% of irrelevant data using Kendall Rank correlation coefficient in data visualization.
+
+• Developed classification model and achieved accuracy of 95% and F1 score of 88% in predicting customer churn.
+
+<!-- ### Marketing Analysis and Customer Segmentation
 
 _Kaggle Project on Marketing Analytics_
 
@@ -50,7 +60,7 @@ _Kaggle Project on Marketing Analytics_
 
 • Visualized data using Matplotlib and Seaborn on which marketing campaigns are most effective, maximizing company profits for the next marketing campaign.
 
-• Developed a classification and clustering model using Scikit-learn to gauge customer response to advertisement campaigns, performing at 89% accuracy.
+• Developed a classification and clustering model using Scikit-learn to gauge customer response to advertisement campaigns, performing at 89% accuracy. -->
 
 ### Diabetic Patients Classification
 
