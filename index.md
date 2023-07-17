@@ -42,6 +42,16 @@ _B.S._ Computer Science and Engineering, 3.6, September 2015 - June 2018
 
 ## Projects
 
+### [Stock Price Direction Predictor](https://github.com/Jonathan-Dedinata/StockClassification/tree/main)
+
+_Personal Project_
+
+• Performed exploratory data analysis, added data visuals and engineered additional features such as MACD, EMA and SMA. 
+
+• Deployed model to web services using Azure Container Instances, reachable using REST endpoints for public access.
+
+• Developed a classification model using Azure Machine Learning to predict stock price direction, performing at 53% accuracy.
+
 ### [Customer Churn Predictor](https://github.com/Jonathan-Dedinata/StrataProjects/blob/main/CustomerChurn/Customer%20Churn.ipynb)
 
 _Personal Project_
