@@ -16,29 +16,35 @@ _B.S._ Computer Science and Engineering, 3.6, September 2015 - June 2018
 
 **Lead Software Analyst**, April 2020 - August 2021
 
-• Led a team of 10 and organized efforts to gather meaningful data and trends to decrease application processing times.
+• Led a team of 10 analysts and organized efforts to gather data and trends to decrease application processing times.
 
-• Utilized Tableau to analyze workflows, improving SLAs by 66% and further decreasing processing times by 75%.
+• Performed Extract, Transform, and Load (ETL) and deployed gathered data into Redshift for data manipulation and analysis. 
 
-• Collaborated with governmental and medical institutions to deploy COVID-19 applications during time of urgency.
+• Drove up sales of new businesses by serving as a consultant, boosting in-app purchase sales in the APAC region by 35% YoY. 
+
+• Utilized Tableau to derive insights on workflows, improving SLAs by 66% and further decreasing processing times by 75%.
+
+• Collaborated with governmental and medical institutions for deploying COVID-19 applications and making critical decisions.
 
 **Software Analyst**, May 2019 - April 2020
 
-• Analyzed and reviewed 105 iOS applications daily based on design, performance, and utility, pushing for 130% of daily target.
+• Analyzed and reviewed 105 iOS applications daily based on design, performance, and utility, pushing for 130% of daily target. 
 
-• Collaborated with cross-departmental teams to introduce more automation in workflows, cutting processing times by 60%.
+• Coordinated with policy and engineering teams to introduce automation in workflows, cutting processing times by 60%.
 
-• Resolved 95% of reported issues while following up on 100% of feedback from developers, evaluated monthly.
+• Conducted A/B testing to solve client pain points with App Store platform, and identified and recommended solutions to solve unclear platform roadmaps, which reduced the bounce rate by 40%.
+
+• Assisted marketing team to resolve 95% of reported issues while following up on 100% of feedback from developers.
 
 ### Google
 
 **Content Analyst**, October 2018 - March 2019
 
-• Analyzed content and tested 90 Android applications daily based on design and performance for publishing to the Play Store.
+• Analyzed content and tested 90 Android applications daily based on design and performance for publishing to the Play Store. 
 
 • Increased efficiency of application analyses by 40% by using automation to identify and keep track of application trends.
 
-• Decreased application processing times by 33% by removing parts of workflows that contributes least to meaningful data.
+• Decreased application processing times by 33% by removing parts of workflows that contribute least to meaningful data.
 
 ## Projects
 
@@ -50,7 +56,7 @@ _Personal Project_
 
 • Deployed model to web services using Azure Container Instances, reachable using REST endpoints for public access.
 
-• Developed a classification model using Azure Machine Learning to predict stock price direction, performing at 53% accuracy.
+• Developed a classification model using Azure Machine Learning to predict stock price direction, performing at 55% accuracy.
 
 ### [Customer Churn Predictor](https://github.com/Jonathan-Dedinata/StrataProjects/blob/main/CustomerChurn/Customer%20Churn.ipynb)
 
